@@ -39,6 +39,7 @@
     <script>
       function init(home) {
         var url = "pages" + (location.pathname === "/" || home ? "/index" : location.pathname) + ".md";
+        $("#editongithub").attr("href", "https://github.com/markvoortmanppu/appliedcomputerscience/edit/master/" + url);
         $.ajax({
           url: url,
           type: "get",
@@ -76,6 +77,7 @@
     <footer class="footer">
       <div id="footer" style="margin: auto; text-align: center; max-width: 800px;">
         <div style="padding: 15px; background-color: #738B35; font-size: 125%; font-weight: bold; color: white;">
+          <a id="editongithub" href="/" style="color: white; text-decoration: none; font-size: 70%;">Edit on GitHub</a><br>
           <a href="https://pointpark.edu/Academics/Schools/Business/index" style="color: white; text-decoration: none;">Rowland School of Business</a><br>
           <a href="https://pointpark.edu/" style="color: white; text-decoration: none;">Point Park University</a>
         </div>
