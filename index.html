@@ -38,7 +38,7 @@
     </style>
     <script>
       function init(home) {
-        var url = "pages" + (location.pathname === "/" || home ? "/index" : location.pathname) + ".md";
+        var url = "pages" + (location.pathname === "/" || home ? "/index" : location.pathname) + ".md?" + Date.now();
         $("#editongithub").attr("href", "https://github.com/markvoortmanppu/appliedcomputerscience/edit/master/" + url);
         $.ajax({
           url: url,
