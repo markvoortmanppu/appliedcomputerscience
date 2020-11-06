@@ -16,7 +16,7 @@
 * Slack is not an open protocol.
 * Slack cannot be self-hosted.
 
-## Why move to [Element](https://element.io/):
+## Why move to [Element](https://element.io/)
 
 * Element supports an unlimited number of messages.
 * Element supports an unlimited number of files
