@@ -1,5 +1,9 @@
-# Welcome!
+# Announcements
+
+* [Spring 2021: Element Will Replace Slack](why-element)
+
+# Resources
 
 * [Courses](courses)
-* [Element](element)
+* [Tutorials](tutorials)
 * [Contact](contact)
