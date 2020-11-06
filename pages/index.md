@@ -1,6 +1,6 @@
 # Announcements
 
-* [Spring 2021: Element Will Replace Slack](why-element)
+* [Spring 2021: Element Will Replace Slack](introducing-element)
 
 # Resources
 
