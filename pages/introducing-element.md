@@ -1,12 +1,12 @@
 # Introducing Element
 
-## [Element](https://element.io/) replaces Slack in 2021
+## [Element](https://element.io/) Replaces Slack In 2021
 
 * Slack has served us well but it is time to move on.
 * Element has been selected as successor and will be used starting Spring 2021.
 * More details below.
 
-## Why move away from Slack
+## Why Move Away From Slack
 
 * The free version of Slack only keeps the last 10,000 messages.
 * The free version of Slack only keeps a certain number of files.
@@ -16,7 +16,7 @@
 * Slack is not an open protocol.
 * Slack cannot be self-hosted.
 
-## Why move to [Element](https://element.io/)
+## Why Move To [Element](https://element.io/)
 
 * Element supports an unlimited number of messages.
 * Element supports an unlimited number of files
@@ -28,7 +28,7 @@
 * Matrix can be self-hosted.
 * Matrix/Element can be used indefinitely even after graduation.
 
-## Introducing Rowland (an AI bot)
+## Introducing Rowland (AI Bot)
 
 * Rowland is a bot we developed that operates on Matrix/Element.
 * Rowland automatically shares the most popular Hacker News article every day as a topic of discussion.
@@ -39,4 +39,4 @@
 
 ## Installing Element
 
-Please follow the [Element tutorial](element).
+Please go to our [Element](element) page and follow the steps.
