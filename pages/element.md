@@ -2,6 +2,10 @@
 
 [All Tutorials](tutorials)
 
+## Why Element
+
+* See [Introducing Element](introducing-element) for details.
+
 ## Installing Element:
 
 * Go to [app.element.io](https://app.element.io/) and create an account.
