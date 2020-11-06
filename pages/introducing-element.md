@@ -1,4 +1,4 @@
-# Why Element
+# Introducing Element
 
 ## ANNOUNCEMENT: INTRODUCING [ELEMENT](https://element.io/) FOR 2021
 
