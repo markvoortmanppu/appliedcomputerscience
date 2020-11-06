@@ -1,5 +1,7 @@
 # Element
 
+[All Tutorials](tutorials)
+
 ## Installing Element:
 
 * Go to [app.element.io](https://app.element.io/) and create an account.
