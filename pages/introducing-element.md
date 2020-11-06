@@ -1,6 +1,6 @@
 # Introducing Element
 
-## ANNOUNCEMENT: INTRODUCING [ELEMENT](https://element.io/) FOR 2021
+## ANNOUNCEMENT: [ELEMENT](https://element.io/) REPLACES SLACK IN 2021
 
 * Slack has served us well but it is time to move on.
 * Element has been selected as successor and will be used starting Spring 2021.
