@@ -26,17 +26,17 @@ To enhance the career potential of students from various academic and societal b
 ## Program Intended Student Learning Outcomes (Program ISLOs)
 
 1. Analytical Tools: Apply information technology tools and techniques to meet the needs and expectations of the workplace.
-   Maps to Broad-Based Learning Goal 4 and Key Learning Outcome 5.
+   *Maps to Broad-Based Learning Goal 4 and Key Learning Outcome 5.*
 2. Communication: Clearly communicate thoughts and ideas both verbally and in writing.
-   Maps to Broad-Based Learning Goal 2 and Key Learning Outcome 3.
+   *Maps to Broad-Based Learning Goal 2 and Key Learning Outcome 3.*
 3. Critical Thinking: Apply theory and practice into solving organizational problems.
-   Maps to Broad-Based Learning Goal 1 and Key Learning Outcome 1.
+   *Maps to Broad-Based Learning Goal 1 and Key Learning Outcome 1.*
 4. Scholarship: Analyze, integrate and communicate complex information to facilitate management decision making.
-   Maps to Broad-Based Learning Goal 5 and Key Learning Outcome 8.
+   *Maps to Broad-Based Learning Goal 5 and Key Learning Outcome 8.*
 5. Teamwork: Work well with others and with a demonstrated appreciation of individual differences and a sensitivity to diversity.
-   Maps to Broad-Based Learning Goal N/A and Key Learning Outcome 2.
+   *Maps to Broad-Based Learning Goal N/A and Key Learning Outcome 2.*
 6. Business Core: Apply major Applied Computer Science concepts within the traditional areas of business.
-   Maps to Broad-Based Learning Goal 3 and Key Learning Outcome 4.
+   *Maps to Broad-Based Learning Goal 3 and Key Learning Outcome 4.*
 
 ## Schedule
 
