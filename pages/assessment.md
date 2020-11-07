@@ -14,20 +14,28 @@ To enhance the career potential of students from various academic and societal b
 
 ## IACBE Key Learning Outcomes for Bachelor's-Level Business Programs
 
-* Critical Thinking: Demonstrate an ability to obtain and process information in order to make decisions and solve problems.
-* Teamwork: Contribute to the development of a high performing team and collaborative environment.
-* Communication: Deliver effective and professional communications using a variety of delivery venues.
-* Business Core: Apply major concepts within the traditional areas of business.
-* Analytical Tools: Apply decision-support tools to business decision making.
-* Leadership: Apply strategic planning skills to effect a change initiative in a business scenario.
-* Environment: Apply legal, ethical, and economic standards of business within a global environment.
-* Scholarship: Utilize research skills in business problem solving.
+1. Critical Thinking: Demonstrate an ability to obtain and process information in order to make decisions and solve problems.
+2. Teamwork: Contribute to the development of a high performing team and collaborative environment.
+3. Communication: Deliver effective and professional communications using a variety of delivery venues.
+4. Business Core: Apply major concepts within the traditional areas of business.
+5. Analytical Tools: Apply decision-support tools to business decision making.
+6. Leadership: Apply strategic planning skills to effect a change initiative in a business scenario.
+7. Environment: Apply legal, ethical, and economic standards of business within a global environment.
+8. Scholarship: Utilize research skills in business problem solving.
 
 ## Program Intended Student Learning Outcomes (Program ISLOs)
 
-* Analytical Tools: Apply information technology tools and techniques to meet the needs and expectations of the workplace.
-* Communication: Clearly communicate thoughts and ideas both verbally and in writing.
-* Critical Thinking: Apply theory and practice into solving organizational problems.
-* Scholarship: Analyze, integrate and communicate complex information to facilitate management decision making.
-* Teamwork: Work well with others and with a demonstrated appreciation of individual differences and a sensitivity to diversity.
-* Business Core: Apply major Applied Computer Science concepts within the traditional areas of business.
+1. Analytical Tools: Apply information technology tools and techniques to meet the needs and expectations of the workplace.
+2. Communication: Clearly communicate thoughts and ideas both verbally and in writing.
+3. Critical Thinking: Apply theory and practice into solving organizational problems.
+4. Scholarship: Analyze, integrate and communicate complex information to facilitate management decision making.
+5. Teamwork: Work well with others and with a demonstrated appreciation of individual differences and a sensitivity to diversity.
+6. Business Core: Apply major Applied Computer Science concepts within the traditional areas of business.
+
+## Schedule
+
+* 2017-2018: Analytical Tools (and Scholarship)
+* 2018-2019: Communication (and Business Core)
+* 2019-2020: Critical Thinking and Teamwork
+* 2020-2021: Communication and Scholarship
+* 2021-2022: Analytical Tools and Business Core
