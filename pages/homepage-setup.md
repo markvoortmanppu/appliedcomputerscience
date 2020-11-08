@@ -25,27 +25,27 @@ sudo ee /usr/local/etc/nginx/nginx.conf
 and change the `server_name` as well as `root` which can be found under `location` (make sure to replace `$USERNAME`):
 
 ```
-    server {
-        # name of your server
-        listen       80;
-        server_name  $USERNAME.it.pointpark.edu;
-        
-        # location of the root directory
-        #
-        location / {
-            root   /home/$USERNAME/www;
-            index  index.html index.htm;
-        }
+server {
+    # name of your server
+    listen       80;
+    server_name  $USERNAME.it.pointpark.edu;
 
-        #error_page  404              /404.html;
-
-        # redirect server error pages to the static page /50x.html
-        #
-        error_page   500 502 503 504  /50x.html;
-        location = /50x.html {
-            root   /usr/local/www/nginx-dist;
-        }
+    # location of the root directory
+    #
+    location / {
+        root   /home/$USERNAME/www;
+        index  index.html index.htm;
     }
+
+    #error_page  404              /404.html;
+
+    # redirect server error pages to the static page /50x.html
+    #
+    error_page   500 502 503 504  /50x.html;
+    location = /50x.html {
+        root   /usr/local/www/nginx-dist;
+    }
+}
 ```
 
 And restart nginx:
