@@ -1,12 +1,12 @@
 # Jail Setup
 
-## Obtaining an Jail
+## Obtaining a Jail Account
 
 Your environment is usually created when you take a class that requires work on the server. This is a type of remote connection but normally only uses a command line text interface. Ask the instructor to set up an account for you. Your environment is identified with your Point Park username.
 
 ## Connecting to Your Jail
 
-Tip: Connecting to your environment is very similar to setting up a remote desktop connection, but then without the graphical user interface.
+**Tip: Connecting to your environment is very similar to setting up a remote desktop connection, but then without the graphical user interface.**
 Because your environment runs remotely you need software to connect (through the SSH protocol). On Windows one of the best programs is PuTTY. On Mac OS X one could use the ssh program from the Terminal (go to the Launchpad and type Terminal). When running PuTTY you have to set the server you are connecting to, so simply enter as Host Name
 
 ```username@username.it.pointpark.edu```
@@ -18,7 +18,7 @@ where you replace username with your actual account name. When using ssh from th
 In both cases you will be prompted for your password. Your initial password is the same as your username initially, but you will be forced to change it immediately.
 Note: You should pick a password that is hard to guess and you do not use anywhere else!
 
-Below are screen shots of both PuTTY (left) and a terminal window (right) with the required information filled out (click on them for a larger version). Note that you have to replace all occurrences of mvoortman with your username.
+Below are screen shots of both PuTTY (first) and a terminal window (second) with the required information filled out (click on them for a larger version). Note that you have to replace all occurrences of mvoortman with your username.
 
 ![PuTTy](images/jail-putty.png)
 
