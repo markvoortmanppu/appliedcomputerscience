@@ -22,7 +22,7 @@ Then open the nginx config file:
 sudo ee /usr/local/etc/nginx/nginx.conf
 ```
 
-and change the `server_name` as well as `root` which can be found under `location` (make sure to replace `$USERNAME`):
+and use the arrow keys to navigate down to change the `server_name` as well as `root` which can be found under `location` (make sure to replace `$USERNAME`):
 
 ```
 server {
@@ -35,15 +35,6 @@ server {
     location / {
         root   /home/$USERNAME/www;
         index  index.html index.htm;
-    }
-
-    #error_page  404              /404.html;
-
-    # redirect server error pages to the static page /50x.html
-    #
-    error_page   500 502 503 504  /50x.html;
-    location = /50x.html {
-        root   /usr/local/www/nginx-dist;
     }
 }
 ```
