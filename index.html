@@ -47,6 +47,15 @@
           dataType: "html",
           success: function(data) {
             $("#content").empty();
+            var a = $("<a>");
+            $("#content").append(a);
+            a.css("font-size", "75%");
+            a.attr("href", "javascript:");
+            a.append("Back");
+            a.click(function() {
+              history.back();
+            });
+            $("#content").append("<br>");
             $("#content").append(marked(data, { breaks: true }));
           }
         }).fail(function(jqXHR, textStatus, error) {
