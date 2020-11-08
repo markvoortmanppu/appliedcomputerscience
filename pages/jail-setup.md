@@ -16,7 +16,7 @@ where you replace username with your actual account name. When using ssh from th
 ```ssh username@username.it.pointpark.edu```
 
 In both cases you will be prompted for your password. Your initial password is the same as your username initially, but you will be forced to change it immediately.
-Note: You should pick a password that is hard to guess and you do not use anywhere else!
+**Note: You should pick a password that is hard to guess and you do not use anywhere else!**
 
 Below are screen shots of both PuTTY (first) and a terminal window (second) with the required information filled out (click on them for a larger version). Note that you have to replace all occurrences of mvoortman with your username.
 
