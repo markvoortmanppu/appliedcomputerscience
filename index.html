@@ -57,7 +57,9 @@
             });
             $("#content").append("<br>");
             $("#content").append(marked(data, { breaks: true }));
-            $("#content").find("img").css("width", "100%");
+            $("#content").find("img").css("width", "100%").css("cursor", "pointer").click(function(event) {
+              window.open($(event.target).attr("src"));
+            });
           }
         }).fail(function(jqXHR, textStatus, error) {
           if (jqXHR.status) {
