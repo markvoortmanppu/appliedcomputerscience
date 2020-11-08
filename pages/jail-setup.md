@@ -9,11 +9,15 @@ Your environment is usually created when you take a class that requires work on 
 **Tip: Connecting to your environment is very similar to setting up a remote desktop connection, but then without the graphical user interface.**
 Because your environment runs remotely you need software to connect (through the SSH protocol). On Windows one of the best programs is PuTTY. On Mac OS X one could use the ssh program from the Terminal (go to the Launchpad and type Terminal). When running PuTTY you have to set the server you are connecting to, so simply enter as Host Name
 
-```username@username.it.pointpark.edu```
+```
+username@username.it.pointpark.edu
+```
 
 where you replace username with your actual account name. When using ssh from the terminal you simply type
 
-```ssh username@username.it.pointpark.edu```
+```
+ssh username@username.it.pointpark.edu
+```
 
 In both cases you will be prompted for your password. Your initial password is the same as your username initially, but you will be forced to change it immediately.
 **Note: You should pick a password that is hard to guess and you do not use anywhere else!**
@@ -28,20 +32,28 @@ Below are screen shots of both PuTTY (first) and a terminal window (second) with
 
 When you enter
 
-```date```
+```
+date
+```
 
 it will display the time for the wrong timezone (unless this has already been fixed). To address this issue first change to the root user
 
-```su```
+```
+su
+```
 
 then enter the timezone setup utility
 
-```tzsetup```
+```
+tzsetup
+```
 
 Select `No` for the first dialog, then America, and scroll down almost all the way to the bottom for the United States. Next select Eastern Time (or whatever is appropriate) and confirm by selecting `Yes`. After running date again it should show the correct timezone.
 Finally, exit the root account
 
-```exit```
+```
+exit
+```
 
 ## Video
 
