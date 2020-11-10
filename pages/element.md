@@ -11,6 +11,7 @@
 * Go to [app.element.io](https://app.element.io/) and create an account.
 * Your account name can be anything but make sure you can keep it long term.
 * For example, I used markvoortman as username.
+* It is advisable to also provide a personal email address (do not use your Point Park one as it may expire).
 * **IMPORTANT:** After signing up make sure you back up your keys:
   * Click on your name at the left top.
   * Open Security & Privacy.
