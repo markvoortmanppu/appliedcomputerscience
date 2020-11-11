@@ -10,6 +10,7 @@
 * [Degree requirements](degree-requirements)
 * [Listing of all pages](listing)
 * [Listing of all jails](jails)
+* [Faculty](faculty)
 * [Courses](courses)
 * [Tutorials](tutorials)
 * [Contact](contact)
