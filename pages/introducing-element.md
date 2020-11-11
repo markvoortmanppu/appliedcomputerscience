@@ -9,7 +9,7 @@
 ## Why Move Away From Slack
 
 * The free version of Slack only keeps the last 10,000 messages.
-* The free version of Slack only keeps a certain number of files.
+* The free version of Slack only keeps 5GB of files.
 * The free version of Slack does not support voice or video calls.
 * The paid version of Slack is expensive.
 * Slack does not support [end-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption).
