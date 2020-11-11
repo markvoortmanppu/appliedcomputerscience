@@ -6,7 +6,7 @@
 
 # Quick Links
 
-* [Prospective students](https://www.pointpark.edu/Academics/Schools/Business/UndergraduateProgram/AppliedComputerScience)
+* [Prospective students](prospects)
 * [Degree requirements](degree-requirements)
 * [Listing of all pages](listing)
 * [Listing of all jails](jails)
