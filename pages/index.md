@@ -1,7 +1,7 @@
 # Announcements
 
 * **Fall 2020: Site launched but still moving content from [it.pointpark.edu](https://it.pointpark.edu/)**
-* [Fall 2020: IT was renamed to Applied Computer Science (plus new concentrations)](https://appliedcomputerscience.org/pdfs/2020-2021-appliedcomputerscience-bs.pdf)
+* [Fall 2020: IT was renamed to Applied Computer Science (and added concentrations)](https://appliedcomputerscience.org/pdfs/2020-2021-appliedcomputerscience-bs.pdf)
 * [Spring 2021: Element will replace Slack](introducing-element)
 
 # Quick Links
