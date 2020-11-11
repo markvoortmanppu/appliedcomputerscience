@@ -28,7 +28,13 @@
 * Install the Element app from the App/Play Store.
 * It will ask you to cross-sign/validate your new login, which is why you need the other session.
 
-## Faculty Username Information
+## Tips
 
-* Professor Voortman: `@markvoortman:matrix.org`
-* Professor Seaman: `@jeffreyjseaman:matrix.org`
+* Changing your Display Name:
+  * Click on your name at the left top.
+  * Open All Settings.
+  * Under General set your display name.
+* Changing your avatar:
+  * Click on your name at the left top.
+  * Open All Settings.
+  * Under General upload a new avatar.
