@@ -1,6 +1,6 @@
 # Introducing Element
 
-## [Element](https://element.io/) Will Replace Slack In 2021
+## Element Will Replace Slack In 2021
 
 * Slack has served us well but it is time to move on.
 * Element has been selected as successor and will be used starting Spring 2021.
@@ -16,8 +16,9 @@
 * Slack is not an open protocol.
 * Slack cannot be self-hosted.
 
-## Why Move To [Element](https://element.io/)
+## Why Move To Element
 
+* Please visit [Element.io](https://element.io/) for more information.
 * Element supports an unlimited number of messages.
 * Element supports an unlimited number of files
 * Element supports voice or video calls.
