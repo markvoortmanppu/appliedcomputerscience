@@ -28,9 +28,9 @@
 * Matrix can be self-hosted.
 * Matrix/Element can be used indefinitely even after graduation.
 
-## Introducing Rowland (AI Bot)
+## Introducing Rowland (Bot)
 
-Please go to the [Rowland](rowland) page to learn more about our AI bot that communicates over Matrix/Element.
+Please go to the [Rowland](rowland) page to learn more about our bot that communicates over Matrix/Element.
 
 ## Installing Element
 
