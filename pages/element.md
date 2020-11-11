@@ -38,3 +38,9 @@
   * Click on your name at the left top.
   * Open All Settings.
   * Under General upload a new avatar.
+
+## Links
+
+* [Element.io](https://element.io/)
+* [Why we are switching to Element](introducing-element)
+* [Matrix/Element contact information for faculty](faculty)
