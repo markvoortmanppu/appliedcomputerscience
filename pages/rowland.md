@@ -1,4 +1,4 @@
-# Rowland (AI bot)
+# Rowland (Bot)
 
 * Rowland is a bot we developed that operates on Matrix/Element.
 * Rowland automatically shares the most popular Hacker News article every day as a topic of discussion.
