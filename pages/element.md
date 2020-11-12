@@ -19,6 +19,7 @@
   * Make sure to store the provided information carefully!
 * Send a message to `@markvoortman:matrix.org` (please identify yourself) and you will be added to the Point Park University community.
 * Add yourself to the rooms you would like to follow.
+* Note: the history of each room may not be visible (this may change in the future) but new messages will show up.
 * You can revisit the community by hovering over the P at the left top, clicking on the 3 dots, and go to View Community.
 * Ideally, you should install the app on your phone right away as well while you still have the browser session open.
 
