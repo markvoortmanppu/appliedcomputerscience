@@ -26,7 +26,7 @@
 ## Using the Apps
 
 * Make sure you have the session from [app.element.io](https://app.element.io/) open in your browser.
-* Install the Element app from the App/Play Store.
+* Install the Element app from the App/Play Store or install one of the Desktop apps.
 * It will ask you to cross-sign/validate your new login, which is why you need the other session.
 
 ## Tips
