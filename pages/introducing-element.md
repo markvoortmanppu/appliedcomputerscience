@@ -28,6 +28,7 @@
 * Matrix is not controlled by a single corporation.
 * Matrix can be self-hosted.
 * Matrix/Element can be used indefinitely even after graduation.
+* Matrix/Element is used by Mozilla (creator of Firefox) as well as several large goverment entities.
 
 ## Introducing Rowland (Bot)
 
