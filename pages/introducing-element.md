@@ -26,6 +26,7 @@
 * Element supports [end-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption).
 * Element is based on the open and federated [Matrix](https://matrix.org/) protocol (could be used for the IoT).
 * Matrix is not controlled by a single corporation.
+* Matrix is a federated protocol.
 * Matrix can be self-hosted.
 * Matrix/Element can be used indefinitely even after graduation.
 * Matrix/Element is used by Mozilla (creator of Firefox) as well as several large goverment entities.
