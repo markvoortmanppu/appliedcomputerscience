@@ -43,5 +43,6 @@
 ## Links
 
 * [Element.io](https://element.io/)
+* [Matrix.org](https://matrix.org/)
 * [Why we are switching to Element](introducing-element)
 * [Matrix/Element contact information for faculty](faculty)
