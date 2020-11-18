@@ -39,6 +39,7 @@
   * Click on your name at the left top.
   * Open All Settings.
   * Under General upload a new avatar.
+* [Rowland](rowland) is a bot active on Matrix/Element who aspires to be a personal assistant.
 
 ## Links
 
