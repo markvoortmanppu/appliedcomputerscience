@@ -17,7 +17,7 @@ If fewer than 20 students participate:
 # Task
 
 * Develop a professional looking homepage in your jail.
-* Showcase your portfolio and include your achievement, such as coursework, course projects, internships, co-ops, skills acquired, etc.
+* Showcase your portfolio in terms of achievements, such as course work, course projects, internships, co-ops, skills acquired, etc.
 * Keep in mind that part of the reason of having a homepage is to help you find an internship, co-op, or job.
 * If you have an existing homepage you can simply improve it (no need to start from scratch).
 * It is **not** allowed to use any external tools or site builders such as Wordpress or Wix.
@@ -30,7 +30,7 @@ The following factors will be taking into account when judging your submission:
 * Whether you are a freshman, sophomore, junior, or senior.
 * How visually appealing your homepage looks.
 * How easy it is to navigate and use your homepage.
-* How impressive your portfolio is in terms of achievements, course work, published projects, skills, etc. (relative to your standing).
+* How impressive your portfolio is in terms of achievements, such as course work, course projects, internships, co-ops, skills acquired, etc. (relative to your standing).
 * How much relevant information a potential employer can learn about you and your career goals.
 
 # Deadline
