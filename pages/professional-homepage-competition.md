@@ -22,6 +22,13 @@ If fewer than 20 students participate:
 * If you have an existing homepage you can simply improve it (no need to start from scratch).
 * It is **not** allowed to use any external tools or site builders such as Wordpress or Wix.
 * Libraries like jQuery, Bootstrap, etc. are certainly allowed.
+* Make sure to test your final homepage properly to make sure that everything works as intended.
+
+# Requirements
+
+* All Applied Computer Science and Information Technology students are eligible.
+* You need to host your professional homepage in your jail (if you do not have one yet, please request it).
+* Again, it is **not** allowed to use site builder but external libraries like jQuery and Bootstrap are permitted.
 
 # Judging
 
@@ -35,7 +42,7 @@ The following factors will be taking into account when judging your submission:
 
 # Deadline
 
-The deadline is 01/19/2021 (first day of the Spring 2021 semester) at 11:59pm.
+The deadline is 01/31/2021 at 11:59pm.
 
 # Submission
 
