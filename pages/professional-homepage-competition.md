@@ -14,7 +14,7 @@ If fewer than 20 students participate:
 * Second prize is a $50 gift card of your choice.
 * Third prize is a $25 gift card of your choice.
 
-# Task
+## Task
 
 * Develop a professional looking homepage in your jail.
 * Showcase your portfolio in terms of achievements, such as course work, course projects, internships, co-ops, skills acquired, etc.
@@ -24,13 +24,13 @@ If fewer than 20 students participate:
 * Libraries like jQuery, Bootstrap, etc. are certainly allowed.
 * Make sure to test your final homepage properly to make sure that everything works as intended.
 
-# Requirements
+## Requirements
 
 * All Applied Computer Science and Information Technology students are eligible.
 * You need to host your professional homepage in your jail (if you do not have one yet, please request it).
 * Again, it is **not** allowed to use site builder but external libraries like jQuery and Bootstrap are permitted.
 
-# Judging
+## Judging
 
 The following factors will be taking into account when judging your submission:
 
@@ -40,10 +40,10 @@ The following factors will be taking into account when judging your submission:
 * How impressive your portfolio is in terms of achievements, such as course work, course projects, internships, co-ops, skills acquired, etc. (relative to your standing).
 * How much relevant information a potential employer can learn about you and your career goals.
 
-# Deadline
+## Deadline
 
 The deadline is 01/31/2021 at 11:59pm.
 
-# Submission
+## Submission
 
 Submission information will be provided in the near future.
