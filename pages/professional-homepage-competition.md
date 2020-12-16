@@ -1,5 +1,7 @@
 # Professional Homepage Competition
 
+Disclaimer: Some minor adjustments may still be made to the text below.
+
 ## Prizes
 
 If 20 students or more participate:
