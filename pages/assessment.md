@@ -10,7 +10,7 @@ To enhance the career potential of students from various academic and societal b
 2. Communication: Students will deliver effective communication using a variety of in-person and digital methods. 
 3. Business Core/Theory and Practice: Students will apply major concepts within the traditional areas of business. 
 4. Analytical Tools/Information Technology: Students will utilize information technology tools, and analytical tools to enhance business decision making. 
-5. Scholarship/Research: Students will utilize research skills in business applications 
+5. Scholarship/Research: Students will utilize research skills in business applications.
 
 ## IACBE Key Learning Outcomes for Bachelor's-Level Business Programs
 
@@ -29,9 +29,9 @@ To enhance the career potential of students from various academic and societal b
    *Maps to Broad-Based Learning Goal 4 and Key Learning Outcome 5.*
 2. Communication: Clearly communicate thoughts and ideas both verbally and in writing.
    *Maps to Broad-Based Learning Goal 2 and Key Learning Outcome 3.*
-3. Critical Thinking: Apply theory and practice into solving organizational problems.
+3. Critical Thinking: Analyze, integrate and communicate complex information to facilitate management decision making.
    *Maps to Broad-Based Learning Goal 1 and Key Learning Outcome 1.*
-4. Scholarship: Analyze, integrate and communicate complex information to facilitate management decision making.
+4. Scholarship: Gather, analyze, and evaluate critical information from within Applied Computer Science.
    *Maps to Broad-Based Learning Goal 5 and Key Learning Outcome 8.*
 5. Teamwork: Work well with others and with a demonstrated appreciation of individual differences and a sensitivity to diversity.
    *Maps to Broad-Based Learning Goal N/A and Key Learning Outcome 2.*
