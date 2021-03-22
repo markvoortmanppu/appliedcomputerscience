@@ -8,6 +8,7 @@
 ## Tooling
 
 * [Installing and using tmux](tmux)
+* [Set up Let's Encrypt for HTTPS](lets-encrypt)
 
 ## Communication
 
