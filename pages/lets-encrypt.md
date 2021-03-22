@@ -59,7 +59,9 @@ And restart Nginx:
 sudo service nginx restart
 ```
 
-Open the crontab with `sudo ee /etc/crontab` and add the following line at the end to automatically renew the certificates:
+After this try browsing to your homepage and then it should automatically redirect you to https.
+
+To make sure the certificates keep working in the future, open the crontab with `sudo ee /etc/crontab` and add the following line at the end to automatically renew the certificates:
 
 ```
 13 3 * * * root /usr/local/bin/certbot renew --post-hook "service nginx restart"
