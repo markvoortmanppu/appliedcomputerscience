@@ -1,4 +1,4 @@
-# How to be Succcessful
+# How to be Successful
 
 There are some fairly simple steps one can follow to maximize the likelihood of being successful, but these steps are often not easy. This page provides an overview of these steps and what habits can be developed to follow these steps. Successful in this context refers to being successfull professionally, although many of these recommendations should also benefit other parts of your life.
 
