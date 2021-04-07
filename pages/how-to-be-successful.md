@@ -12,7 +12,7 @@ There is a lot of scientific evidence that shows that exercise has numerous heal
 
 ## Diet
 
-Diet is another factor that can have a significant impact on your health and well-being. There is a lot of evidence that simply avoiding processed foods and sugar can have a significant positive impact on your overall health. For more information please see [this Wikipedia article](https://en.wikipedia.org/wiki/Healthy_diet).
+Diet is another factor that can have a significant impact on your health and well-being. There is a lot of evidence that simply avoiding processed foods and sugar can have a significant positive impact on your overall health. Of course, staying away from smoking and alcohol is beneficial as well as these act as carcinogens. Eating more fruits and vegetables is almost always a good idea. In some cases eating less or even (intermittent) fasting can also have health benefits. For more information please see [this Wikipedia article](https://en.wikipedia.org/wiki/Healthy_diet).
 
 ## No Multitasking
 
