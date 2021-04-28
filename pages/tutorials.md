@@ -2,6 +2,7 @@
 
 ## Basics
 
+* [How to be succesful](how-to-be-successful)
 * [Set up your jail](jail-setup)
 * [Set up your homepage](homepage-setup)
 
