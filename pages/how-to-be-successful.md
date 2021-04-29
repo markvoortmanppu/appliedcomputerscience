@@ -22,19 +22,35 @@ The human brain is not capable of performing two similar tasks at the same time,
 
 ## Be On Time
 
+One thing that is simple and also fairly easy to implement is being on time. It always makes a bad impression when someone is late. Depending on the occassion, you may want to make sure you have a buffer just in case. For example, if you are just meeting with a friend then you don't need a big buffer because while being a few minutes late does not give a good impression, the consequences are minor. On the other hand, if you are going to a job interview you want to make sure you are on time even if you run into some minor trouble, such as bad traffic. So try to be early and just wait in your car before going in for the interview. You may lose a potential job just because you left the house late.
+
 ## Leave a Favorably Impression
+
+In line with the previous section, make sure to always leave a favorable impression as you never know how it may benefit you. There are some simple things you can do. Always be prepared, such as when attending a meeting. Try to smile and be positive, when possible. Turn on your camera when attending online meetings. Ask questions to show interest and test your understanding. If it is unclear you have to do something, do it anyway unless asking makes more sense. And so on.
 
 ## Use a System to Keep Track of Things
 
+Nowadays there are a lot of tools available that make it easy to track things. We all have our smartphones with us at all times and it has calendaring functionality. If you are forgetting meetings or homework you need to work on a better system. Ideally, every day when you wake up it should be clear what things you have to do and complete that day.
+
 ## Be Intellectually Curious
+
+The best way to acquire skills and knowledge is to be intellectually curious about the world. Just look at how children approach the world and how quickly they learn. One of the most important facets is to always question things and then do some research to answer these questions. Make sure you utilize a variety of sources, ideally some of which are scientifically sound.
 
 ## Read Books
 
+One of the best ways to be intellectually curious is to read books, because some books are incredibly insightful and stood the test of time. Reading comprehension is also an important skill to develop. Throughout this page you can find references to books that should be very worthwhile to read and there are many others out there.
+
 ## Address Challenges with a Growth Mindset
+
+The growth mindset is the believe that talent and skill is not fixed at birth but can be developed over time. People that believe in a fixed mindset, the opposite of a growth mindset, tend to give up earlier because they don't believe they can improve and if they fail it is just because they are not smart enough. This is somewhat of a self-fulfilling prophecy. Nowadays there is a lot of evidence that growth is possible in many areas, as is evidence by the plasticity of the brain, although there are of course some limitations. To learn more about this check out  [Mindset by Carol Dweck](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck-ebook/dp/B000FCKPHG/) and [Grit by Angela Duckworth](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth-ebook/dp/B010MH9V3W/).
 
 ## Keep a Small and Positive Identity
 
+An identity is how we view ourselves. If we believe that we have a fixed mindset it becomes part of our identity and we behave that way, i.e., we may not try new things. Therefore, it is important to develop an identity that is small and positive. If you tell yourself repeatedly that you are a hard work, and you also turn this into action, then over time hard work is something that you value and makes it possible for you to achieve your goals. The main point is that you should be very careful what you tell yourself because you will start believing it.
+
 ## Introspection and Mindfulness
+
+An important meta-skill to develop is introspection. This simply means looking at your own behavior and state of mind and trying to explain why you behaved a certain way or why you feel a certain way. For example, do you feel stressed now? If yes, why? Is it because you started working on the homework too late? Is that something you can change in the future. And so on. Mindfulness is a way to be more in the moment and observe oneself. Many positive benefits have been documented.
 
 ## Build Positive Habits
 
