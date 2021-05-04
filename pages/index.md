@@ -1,5 +1,6 @@
 # Announcements
 
+* **[Spring 2021: Build a portfolio](build-a-portfolio)**
 * **[Spring 2021: How to be successful](how-to-be-successful)**
 * [Spring 2021: Element will replace Slack](introducing-element)
 * Fall 2020: Site launched but still moving content from [it.pointpark.edu](https://it.pointpark.edu/)
