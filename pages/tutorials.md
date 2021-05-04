@@ -1,8 +1,12 @@
 # Tutorials
 
-## Basics
+## Career
 
 * [How to be succesful](how-to-be-successful)
+* [Build a portfolio](build-a-portfolio)
+
+## Basics
+
 * [Set up your jail](jail-setup)
 * [Set up your homepage](homepage-setup)
 
