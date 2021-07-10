@@ -13,6 +13,8 @@
 ## Tooling
 
 * [Installing and using tmux](tmux)
+* [Using GitHub](github).
+* [Using Git](git).
 * [Set up Let's Encrypt for HTTPS](lets-encrypt)
 
 ## Communication
