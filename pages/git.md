@@ -96,7 +96,7 @@ Normally when working in a team, you would not commit changes directly to the ma
 git checkout -b new_feature_branch
 ```
 
-This creates the new branch with as base the main branch but now you can make your changes without affecting main. Make sure to use a more descriptive name than `new_feature_branch`, as that's just an example. Follow the steps in the previous section to commit changes to `new_feature_branch`. After you are done, make sure to push the changes to GitHub.
+This creates the new branch with as base the main branch but now you can make your changes without affecting main. Make sure to use a more descriptive and unique name than `new_feature_branch`, as that's just an example and will result in issues if everyone uses that name. Follow the steps in the previous section to commit changes to `new_feature_branch`. After you are done, make sure to push the changes to GitHub.
 
 ### Creating a Pull Request
 
