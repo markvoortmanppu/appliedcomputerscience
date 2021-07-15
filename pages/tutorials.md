@@ -15,6 +15,7 @@
 * [Installing and using tmux](tmux)
 * [Using GitHub](github).
 * [Using Git](git).
+* [Visual Studio Code](visual-studio-code).
 * [Set up Let's Encrypt for HTTPS](lets-encrypt)
 
 ## Communication
