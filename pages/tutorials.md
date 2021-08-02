@@ -18,6 +18,7 @@
 * [GitHub](github) to share your repository and code with others and collaborate.
 * [Git](git) to add, commit, and push files to GitHub.
 * [Let's Encrypt](lets-encrypt) to get certificates for HTTPS connections.
+* [Databases](databases) introduction and video resources.
 
 ## Communication
 
