@@ -13,7 +13,7 @@
 ## Tooling
 
 * [Tmux](tmux) to keep programs running in your jail even when you disconnect.
-* [Visual Studio](visual-studio-code) to edit code locally and remotely.
+* [Visual Studio Code](visual-studio-code) to edit code locally and remotely.
 * [FileZilla](filezilla) to upload files to your jail.
 * [GitHub](github) to share your repository and code with others and collaborate.
 * [Git](git) to add, commit, and push files to GitHub.
