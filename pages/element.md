@@ -22,7 +22,7 @@
 * Note: the history of each room may not be visible (this may change in the future) but new messages will show up.
 * You can revisit the community by hovering over the P at the left top, clicking on the 3 dots, and go to View Community.
 * Feel free to join all the relevant communities you want.
-* Ideally, you should install the app on your phone right away as well while you still have the browser session open.
+* Ideally, you should install the app on your phone right away as well while you still have the browser session open, so that you have a second session cross-signed/validated (this way you are less likely to lose data due to losing keys and the E2E encryption).
 
 ## Using the Apps
 
