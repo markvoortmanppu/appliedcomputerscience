@@ -9,6 +9,7 @@
 
 * [Jail Setup](jail-setup) to get started with your jail.
 * [Homepage Setup](homepage-setup) to install the nginx webserver and create your first homepage.
+* [How to ask questions](how-to-ask-questions) is an important skill to develop.
 
 ## Tooling
 
