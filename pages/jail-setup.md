@@ -59,3 +59,7 @@ exit
 
 The steps above are also captured in the following video:
 [Jail Setup Video](videos/jail-setup.mp4)
+
+## Next Step
+
+After completing the above, you should continue with [setting up your homepage](homepage-setup).
