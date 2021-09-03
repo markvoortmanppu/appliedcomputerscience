@@ -4,6 +4,10 @@
 
 Visual Studio Code, also known as VS Code, is a very popular code editor that we recommend. You can download it [here](https://code.visualstudio.com/).
 
+## Local Code Editing
+
+Local code editing works like any regular program, just run VS Code and open a file, edit, and then save. There are also many plugins available if you are looking for additional functionality.
+
 ## Remote Code Editing
 
 In most courses you will need to host your websites or applications in your [jail](jail-setup). Therefore, it would be very convenient to be able to edit the code in your jail remotely from your local computer. The following steps achive this:
