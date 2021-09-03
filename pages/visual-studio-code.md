@@ -6,7 +6,7 @@ Visual Studio Code, also known as VS Code, is a very popular code editor that we
 
 ## Local Code Editing
 
-Local code editing works like any regular program, just run VS Code and open a file, edit, and then save. There are also many plugins available if you are looking for additional functionality.
+Local code editing works like any regular program, just run VS Code and open a file, edit, and then save. There are also many plugins available if you are looking for additional functionality. After you are done editing you may need to use [FileZilla](filezilla) to upload the files to your [jail](jail-setup).
 
 ## Remote Code Editing
 
