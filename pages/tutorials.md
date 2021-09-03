@@ -24,3 +24,9 @@
 ## Communication
 
 * [Element](element) to chat with other students and professors.
+
+## JavaScript
+
+* [Arrays vs Objects](arrays-vs-objects).
+* [No Prototype vs Prototype](no-prototype-vs-prototype).
+* [Implementation vs Interface](implementation-vs-interface).
