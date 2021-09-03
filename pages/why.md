@@ -2,7 +2,11 @@
 
 ## A Changing Society
 
-It becomes increasingly harder to imagine any human activity that does not use software or data. More software and data drives more automation, many examples of which are discussed in [this Humans Need Not Apply YouTube video](https://www.youtube.com/watch?v=7Pq-S557XQU). When picking a career now, it is important to consider what might happen in the next few decades (e.g., is the job at risk of automation?). A safe bet would be picking a career and program that focuses on driving automation, which is what the [Applied Computer Science program](https://www.pointpark.edu/academics/schools/business/undergraduateprogram/appliedcomputerscience) at [Point Park University](https://www.pointpark.edu/) provides. It also provides a means to have a huge impact on society, just look at how pervasive sofware and data is throughout many industries. In addition, many of the current big tech companies started as small startup that grew to companies that impact billions of people and started out by just a few people that know how to program.
+It becomes increasingly harder to imagine any human activity that does not use software or data. More software and data drives more automation, many examples of which are discussed in [this Humans Need Not Apply YouTube video](https://www.youtube.com/watch?v=7Pq-S557XQU).
+
+When picking a career now, it is important to consider what might happen in the next few decades (e.g., is the job at risk of automation?). A safe bet would be picking a career and program that focuses on driving automation, which is what the [Applied Computer Science program](https://www.pointpark.edu/academics/schools/business/undergraduateprogram/appliedcomputerscience) at [Point Park University](https://www.pointpark.edu/) provides.
+
+It also provides a means to have a huge impact on society, just look at how pervasive sofware and data is throughout many industries. In addition, many of the current big tech companies started as small startup that grew to companies that impact billions of people and started out by just a few people that know how to program.
 
 ## A Varied Field and Program
 
