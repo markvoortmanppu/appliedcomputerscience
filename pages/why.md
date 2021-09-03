@@ -1,7 +1,7 @@
 # Why Applied Computer Science
 
 ```
-alert("Hello World!");
+alert("Welcome!");
 ```
 
 ## A Changing Society
