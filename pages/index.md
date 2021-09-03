@@ -1,6 +1,6 @@
 # Prospects
 
-- [*Why* study applied computer science](why).
+- [*Why* study Applied Computer Science](why).
 - [General information page](prospects).
 
 # Announcements
