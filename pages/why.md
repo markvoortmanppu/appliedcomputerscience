@@ -1,5 +1,9 @@
 # Why Applied Computer Science
 
+```
+alert("Hello World!");
+```
+
 ## A Changing Society
 
 It becomes increasingly harder to imagine any human activity that does not use software or data. More software and data drives more automation, many examples of which are discussed in [this Humans Need Not Apply YouTube video](https://www.youtube.com/watch?v=7Pq-S557XQU).
