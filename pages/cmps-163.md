@@ -9,10 +9,8 @@ This course will provide you with concepts and tools to utilize data for making 
 ## Course Objectives
 
 Upon successful completion of the course, students should be able to:
-(1) Formulate a detailed plan to go from gathering and analyzing data to making a decision.
-(2) Select the appropriate concepts for the decision at hand.
-(3) Appraise and employ the applicable tools for the decision at hand.
-(4) Verify what assumptions are being made about the data.
-(5) Assess whether the assumptions being made are appropriate.
-(6) Judge the amount of uncertainty in the data and selected model and how it affects the decision.
+1) Illustrate why business analytics is important.
+2) Describe when to apply which business analytics approach. 
+3) Apply business analytics approaches to business problems. 
+4)Interpret business analytic results.
 

@@ -10,8 +10,8 @@ This course continues where CMPS 162 and CMPS 260 leave off. The focus will be o
 
 Upon successful completion of the course, students should be able to:
 (1) Apply all knowledge from CMPS 162 and CMPS 260 to solve real problems.
-(2) Learn fundamental algorithms like sorting.
-(3) Solve problems using recursion.
-(4) Decompose complex problems to find solutions.
-(5) Construct complex user interfaces for running algorithms that solve problems.
+2) Decompose complex problems to find solutions.
+(3) Construct complex user interfaces for running algorithms that solve problems.
+(4) Collaborate in a group setting. 
+ (5) Present project results and updates to stakeholders.
 
