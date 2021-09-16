@@ -6,7 +6,7 @@
 - E.g., **add** a method to push an element onto a stack
 - **Concrete**
 - Details **exposed**
-- Usually **difficult**
+- Usually **difficult** (but not always)
 
 ### Example
 
@@ -23,7 +23,7 @@ Stack.prototype.push = function(elt) {
 - E.g., **use** a method to push an element onto a stack
 - **Abstract**
 - Details are **hidden**
-- Usually **easier**
+- Usually **easy** (but not always)
 
 ### Example
 
