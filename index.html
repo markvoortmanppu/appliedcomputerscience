@@ -5,8 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Applied Computer Science</title>
     <link rel="stylesheet" href="normalize.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <script async type="text/javascript" src="jquery-3.5.1.min.js"></script>
     <script async type="text/javascript" src="marked.min.js"></script>
+    <!--
     <style>
       html, body {
         height: 100%;
@@ -43,6 +45,70 @@
       }
       a:link    { color: black; }
       a:visited { color: black; }
+      ul, ol { padding-left: 1em; }
+    </style>
+    -->
+    <style>
+      html {
+        box-sizing: border-box;
+        margin-left: calc(100vw - 100%);
+      }
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        text-align: center;
+        /*background-color: #181818;*/
+      }
+      @supports (-webkit-touch-callout: none) {
+        body {
+          min-height: -webkit-fill-available;
+        }
+      }
+      header {
+        margin: auto;
+        text-align: center;
+        width: 100%;
+        /*max-width: 1024px;*/
+        max-width: 800px;
+        background-color: #ffffff;/*#303030;*/
+      }
+      main {
+        flex-grow: 1;
+        overflow: auto;
+        margin: auto;
+        text-align: left;
+        width: 100%;
+        /*max-width: 1024px;*/
+        max-width: 800px;
+        /*background-color: #404040;*/
+      }
+      footer {
+        margin: auto;
+        text-align: center;
+        width: 100%;
+        /*max-width: 1024px;*/
+        max-width: 800px;
+        /*background-color: #303030;*/
+      }
+      input, textarea, select, button {
+        /*background-color: #404040;*/
+        /*color: #cccccc;*/
+      }
+      * {
+        font-family: arial;
+        /*color: #cccccc;*/
+      }
+      a {
+        text-decoration: none;
+        border-bottom: 1px solid gray;
+        outline: none;
+      }
+      a:link    { color: black; /*color: #cccccc;*/ }
+      a:visited { color: black; /*color: #cccccc;*/ }
       ul, ol { padding-left: 1em; }
     </style>
     <script>
@@ -83,18 +149,20 @@
     </script>
   </head>
   <body onload="init()" style="background-color: #f4f4f4;">
-    <div class="content">
+    <header>
+      <div style="padding: 15px;">
+        <a href="/" style="border-bottom: 0px;"><img src="images/logo.png" style="max-width: 100%; max-height: 150px;" alt=""></a>
+      </div>
+      <div style="padding: 15px; background-color: #738B35; font-size: 125%; font-weight: bold; color: white;">
+        <a href="/" style="color: white; text-decoration: none;">Applied Computer Science</a>
+      </div>
+    </header>
+    <main>
       <div style="margin: auto; text-align: center; max-width: 800px; background-color: white; height: 100%;">
-        <div style="padding: 15px;">
-          <a href="/"><img src="images/logo.png" style="max-width: 100%; max-height: 150px;" alt=""></a>
-        </div>
-        <div style="padding: 15px; background-color: #738B35; font-size: 125%; font-weight: bold; color: white;">
-          <a href="/" style="color: white; text-decoration: none;">Applied Computer Science</a>
-        </div>
         <div id="content" style="text-align: left; padding: 15px;">
         </div>
       </div>
-    </div>
+    </main>
     <footer class="footer">
       <div id="footer" style="margin: auto; text-align: center; max-width: 800px;">
         <div style="padding: 15px; background-color: #738B35; font-size: 125%; font-weight: bold; color: white;">
