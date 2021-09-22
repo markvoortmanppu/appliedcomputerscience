@@ -72,9 +72,8 @@
         margin: auto;
         text-align: center;
         width: 100%;
-        /*max-width: 1024px;*/
         max-width: 800px;
-        background-color: #ffffff;/*#303030;*/
+        background-color: #ffffff;
       }
       main {
         flex-grow: 1;
@@ -82,17 +81,15 @@
         margin: auto;
         text-align: left;
         width: 100%;
-        /*max-width: 1024px;*/
         max-width: 800px;
-        /*background-color: #404040;*/
+        background-color: #ffffff;
       }
       footer {
         margin: auto;
         text-align: center;
         width: 100%;
-        /*max-width: 1024px;*/
         max-width: 800px;
-        /*background-color: #303030;*/
+        background-color: #738B35;
       }
       input, textarea, select, button {
         /*background-color: #404040;*/
@@ -128,6 +125,7 @@
             a.append("Back");
             a.click(function() {
               history.back();
+              return false;
             });
             $("#content").append("<br>");
             $("#content").append(marked(data, { breaks: true }));
@@ -158,14 +156,14 @@
       </div>
     </header>
     <main>
-      <div style="margin: auto; text-align: center; max-width: 800px; background-color: white; height: 100%;">
+      <div style="margin: auto; text-align: center; max-width: 800px; height: 100%;">
         <div id="content" style="text-align: left; padding: 15px;">
         </div>
       </div>
     </main>
     <footer class="footer">
       <div id="footer" style="margin: auto; text-align: center; max-width: 800px;">
-        <div style="padding: 15px; background-color: #738B35; font-size: 125%; font-weight: bold; color: white;">
+        <div style="padding: 15px; font-size: 125%; font-weight: bold; color: white;">
           <a id="editongithub" href="/" style="color: white; text-decoration: none; font-size: 70%;">Edit Page</a>
           <span style="font-size: 70%;">/</span>
           <a id="editongithub" href="https://github.com/markvoortmanppu/appliedcomputerscience/new/master/pages" style="color: white; text-decoration: none; font-size: 70%;">New Page</a><br>
