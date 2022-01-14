@@ -17,12 +17,11 @@
   * Open Security & Privacy.
   * Set up Key Backup under Encryption.
   * Make sure to store the provided information carefully!
-* Send a message to `@markvoortman:matrix.org` (please identify yourself) and you will be added to the Point Park University community.
-* Add yourself to the rooms you would like to follow.
-* Note: the history of each room may not be visible (this may change in the future) but new messages will show up.
-* You can revisit the community by hovering over the P at the left top, clicking on the 3 dots, and go to View Community.
-* Feel free to join all the relevant communities you want.
+* Send a message to `@markvoortman:matrix.org` (please identify yourself) and you will be added to the Point Park University Space.
+* Add yourself to the rooms available in the Space that you would like to follow.
+* Usually you will also be invited to a room dedicated to the course.
 * Ideally, you should install the app on your phone right away as well while you still have the browser session open, so that you have a second session cross-signed/validated (this way you are less likely to lose data due to losing keys and the E2E encryption).
+* **Do not log out of the browser session unless you backup your keys and/or log into another session or some messages may be lost.**
 
 ## Using the Apps
 
