@@ -10,7 +10,7 @@ A lack of sleep will impair cognitive abilties, which can be especially challeng
 
 ## Exercise
 
-There is a lot of scientific evidence that shows that exercise has numerous health benefits, even if it is just going for a walk several times a week. Exercising will helps with disease prevention, such as for cardiovascular diseases, and also has a positive effect on brain function and cognition and can reduce stress. It may be best to exercise outdoors in nature, if possible. For more information please see [this Wikipedia article](https://en.wikipedia.org/wiki/Exercise).
+There is a lot of scientific evidence that shows that exercise has numerous health benefits, even if it is just going for a walk several times a week. Exercising will help with disease prevention, such as for cardiovascular diseases, and also has a positive effect on brain function and cognition and can reduce stress. It may be best to exercise outdoors in nature, if possible. For more information please see [this Wikipedia article](https://en.wikipedia.org/wiki/Exercise).
 
 ## Diet
 
@@ -18,7 +18,7 @@ Diet is another factor that can have a significant impact on your health and wel
 
 ## No Multitasking
 
-The human brain is not capable of performing two similar tasks at the same time, i.e., [multitasking](https://en.wikipedia.org/wiki/Human_multitasking). It can alternate between the two, known as context switching, but this is expensive and takes time and will also introduce unnecessary errors. This is simple to understand but very hard to do in today's world with an abundance of distractions. At the same time, being able to focus when working on difficult problems like programming and data science is becoming increasingly valuable. One resource that might help is the book [Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/), which also has concrete advise on maintaining a healthy work-life balance.
+The human brain is not capable of performing two similar tasks at the same time, i.e., [multitasking](https://en.wikipedia.org/wiki/Human_multitasking). It can alternate between the two, known as context switching, but this is expensive and takes time and will also introduce unnecessary mistakes. This is simple to understand but very hard to do in today's world with an abundance of distractions. At the same time, being able to focus when working on difficult problems like programming and data science is becoming increasingly valuable. One resource that might help is the book [Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/), which also has concrete advise on maintaining a healthy work-life balance.
 
 ## Be On Time
 
@@ -30,7 +30,7 @@ In line with the previous section, make sure to always leave a favorable impress
 
 ## Use a System to Keep Track of Things
 
-Nowadays there are a lot of tools available that make it easy to track things. We all have our smartphones with us at all times and it has calendaring functionality. If you are forgetting meetings or homework you need to work on a better system. Ideally, every day when you wake up it should be clear what things you have to do and complete that day.
+Nowadays there are a lot of tools available that make it easy to track things. We all have our smartphones with us at all times and it has calendaring functionality. If you are forgetting meetings or homework you need to work on a better system. Ideally, every day when you wake up it should be clear what things you have to do and complete for that day.
 
 ## Be Intellectually Curious
 
@@ -38,7 +38,7 @@ The best way to acquire skills and knowledge is to be intellectually curious abo
 
 ## Read Books
 
-One of the best ways to be intellectually curious is to read books, because some books are incredibly insightful and stood the test of time. Reading comprehension is also an important skill to develop. Throughout this page you can find references to books that should be very worthwhile to read and there are many others out there.
+One of the best ways to be intellectually curious is to read books, because some books are incredibly insightful and older books stood the test of time. Reading comprehension is also an important skill to develop. Throughout this page you can find references to books that should be very worthwhile to read and there are many others out there.
 
 ## Address Challenges with a Growth Mindset
 
@@ -46,7 +46,7 @@ The growth mindset is the believe that talent and skill is not fixed at birth bu
 
 ## Keep a Small and Positive Identity
 
-An identity is how we view ourselves. If we believe that we have a fixed mindset it becomes part of our identity and we behave that way, i.e., we may not try new things. Therefore, it is important to develop an identity that is small and positive. If you tell yourself repeatedly that you are a hard work, and you also turn this into action, then over time hard work is something that you value and makes it possible for you to achieve your goals. The main point is that you should be very careful what you tell yourself because you will start believing it.
+An identity is how we view ourselves. If we believe that we have a fixed mindset it becomes part of our identity and we behave that way, i.e., we may not try new things. Therefore, it is important to develop an identity that is small and positive. If you tell yourself repeatedly that you are a hard working individual, and you also turn this into action, then over time hard work is something that you value and makes it possible for you to achieve your goals. The main point is that you should be very careful what you tell yourself because you will start believing it, both good and bad.
 
 ## Introspection and Mindfulness
 
@@ -54,10 +54,10 @@ An important meta-skill to develop is introspection. This simply means looking a
 
 ## Build Positive Habits
 
-Most of our behavior, good or bad, is shaped by habits. A habit is a routine of behavior that is repeated regularly and tends to occur subconsciously. To implement any of the advise above you need to turn it into sustainable habits. You will have a hard time exercising regularly if you don't turn it into a process that is easily repeatable and nearly impossible to forget. For example, you could decide to go for a run after work every day but you still need to make sure you actually do this every day. Several things may help.
+Most of our behavior, good or bad, is shaped by habits. A habit is a routine of behavior that is repeated regularly and tends to occur subconsciously. To implement any of the advise above you need to turn it into sustainable habits. You will have a hard time exercising regularly if you don't turn it into a process that is easily repeatable and nearly impossible to forget or avoid. For example, you could decide to go for a run after work every day but you still need to make sure you actually do this every day. Several things may help.
 
 First of all, you have to make sure you bring running gear and to do that consistently you can set a reminder. You may also not want to start out running 5 times a week as it is too hard to maintain, but just start with every Monday. Other things that may help is the knowledge that you will be spending your time a lot better than standing in traffic that barely moves due to rush hour. You can also track your weight if that is a consideration and you might remember that you feel great after running. Another thing you can do is to sign up for a race just to give you another incentive to start working out. The main point is that developing habits does not happen overnight and you have to be careful in how you approach it.
 
-Habits tend to consist of a cue, a routine, and a reward. In the above example, the cue is the end of the work day, the routine is going for a run, and the reward is feeling good after completing the run. It is also possible to do "habit stacking", where you use an existing habit to lead into another, new habit. This can be a very powerful tactic and allows you to create a chain of effective habits. Another thing worth mentioning is that bad habits cannot really be unlearned, but they can be replaced by better habits.
+Habits tend to consist of a cue, a routine, and a reward. In the above example, the cue is the end of the work day, the routine is going for a run, and the reward is feeling good after completing the run (or being in better shape, have more energy, lose weight, etc.). It is also possible to do "habit stacking", where you use an existing habit to lead into another, new habit. This can be a very powerful tactic and allows you to create a chain of effective habits. Another thing worth mentioning is that bad habits cannot really be unlearned, but they can be replaced by better habits, so be careful with the habits you develop.
 
 To learn more about habits, please check out out [The Power of Habit by Charles Duhigg](https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU/) and [Atomic Habits by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR/).
