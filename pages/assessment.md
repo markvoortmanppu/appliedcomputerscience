@@ -11,6 +11,7 @@ To enhance the career potential of students from various academic and societal b
 3. Business Core/Theory and Practice: Students will apply major concepts within the traditional areas of business. 
 4. Analytical Tools/Information Technology: Students will utilize information technology tools, and analytical tools to enhance business decision making. 
 5. Scholarship/Research: Students will utilize research skills in business applications.
+6. Teamwork: Students will demonstrate how to work together to achieve an set goal
 
 ## IACBE Key Learning Outcomes for Bachelor's-Level Business Programs
 
