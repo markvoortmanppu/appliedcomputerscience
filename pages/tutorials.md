@@ -31,3 +31,8 @@
 * [Arrays vs Objects](arrays-vs-objects).
 * [No Prototype vs Prototype](no-prototype-vs-prototype).
 * [Implementation vs Interface](implementation-vs-interface).
+
+
+## Web
+
+* [PHP](is a server-side scripting language designed for web development but also used as a general-purpose programming language.).
