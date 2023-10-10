@@ -45,3 +45,4 @@ To enhance the career potential of students from various academic and societal b
 * 2019-2020: Critical Thinking and Teamwork
 * 2020-2021: Communication and Scholarship
 * 2021-2022: Analytical Tools and Business Core
+* 2022-2023: Critical Thinking and Teamwork

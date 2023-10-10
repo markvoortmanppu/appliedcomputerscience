@@ -8,10 +8,10 @@
 ## Installing
 
 ```
-sudo pkg install py37-certbot
+sudo pkg install py38-certbot
 ```
 
-Note: you might have to update the Python version to a more recent one, e.g., change `py37-certbot` to `py38-certbot`.
+Note: you might have to update the Python version to a more recent one, e.g., change `py38-certbot` to `py39-certbot`.
 
 ## Configuring
 
