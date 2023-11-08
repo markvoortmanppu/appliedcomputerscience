@@ -29,7 +29,7 @@
 * Matrix is a federated protocol.
 * Matrix can be self-hosted.
 * Matrix/Element can be used indefinitely even after graduation.
-* Matrix/Element is used by Mozilla (creator of Firefox) as well as several large goverment entities.
+* Matrix/Element is used by Mozilla (creator of Firefox) as well as several large government entities.
 
 ## Introducing Rowland (Bot)
 
