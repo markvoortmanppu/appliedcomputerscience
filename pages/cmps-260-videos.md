@@ -8,3 +8,4 @@
 * [Implementing no-prototype vs prototype](videos/cmps-260-no-prototype-vs-prototype.mp4)
 * [Using recursion for fibonacci](videos/cmps-260-fibonacci-recursion.mp4)
 * [Dynamic programming and greedy algorithms](videos/cmps-260-dynamic-programming-greedy-algorithms.mp4)
+* [First non-repeating character](videos/cmps-260-first-nonrepeating-character.mp4)
