@@ -9,3 +9,5 @@
 * [Using recursion for fibonacci](videos/cmps-260-fibonacci-recursion.mp4)
 * [Dynamic programming and greedy algorithms](videos/cmps-260-dynamic-programming-greedy-algorithms.mp4)
 * [First non-repeating character](videos/cmps-260-first-nonrepeating-character.mp4)
+* [Palindrome computational complexity](videos/cmps-260-palindrome-computational-complexity.mp4)
+* [Min stack element in constant time complexity](videos/cmps-260-min-stack-element-constant-time.mp4)
