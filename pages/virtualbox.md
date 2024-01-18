@@ -6,4 +6,8 @@
 
 ## Installation
 
-Go to [virtualbox.org](https://www.virtualbox.org/), download the latest version, and run the installer. NOTE: If you are on an Apple computer with an M1 or later CPU you currently need to download the ARM64 development snapshot [here](https://www.virtualbox.org/wiki/Testbuilds).
+Go to [virtualbox.org](https://www.virtualbox.org/), download the latest version, and run the installer. NOTE: If you are on an Apple computer with an M1 or later CPU you currently need to download the ARM64 development snapshot [here](https://www.virtualbox.org/wiki/Testbuilds). Once VirtualBox is downloaded, you can navigate through the installer by selecting the default options.
+
+## VM Creation
+
+TODO
