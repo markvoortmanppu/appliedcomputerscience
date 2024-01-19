@@ -1,11 +1,10 @@
 # Prospects
 
-Here are some useful resources (please reach out with questions):
+Here are some useful resources for prospective students:
 
-- [Please reach out with any questions](contact).
 - [Learn *why* studying Applied Computer Science is a good idea](why).
-- [Course listing of Applied Computer Science courses](courses).
+- [The Applied Computer Science program University page](https://www.pointpark.edu/academics/schools/business/undergraduateprogram/appliedcomputerscience).
+- [The Point Park University website](https://www.pointpark.edu/).
 - [Degree requirements](degree-requirements).
-- [The ITSO student organization](http://itso.pointpark.edu/).
-- [Applied Computer Science program University page](https://www.pointpark.edu/academics/schools/business/undergraduateprogram/appliedcomputerscience).
-- [Point Park University website](https://www.pointpark.edu/).
+- [Course listing of the Applied Computer Science program](courses).
+- [Please reach out with any questions](contact).
