@@ -1,25 +1,17 @@
+This website provides resources for the [Applied Computer Science program](https://www.pointpark.edu/academics/schools/business/undergraduateprogram/appliedcomputerscience) at [Point Park University](https://www.pointpark.edu/).
+
 # Prospects
 
 - [*Why* study Applied Computer Science](why).
 - [General information page](prospects).
-
-# Announcements
-
-- **[Spring 2022: Use the jump box to connect to your jail!](jump-box)**
-- [Fall 2021: Welcome new students](welcome-new-students).
-- [Spring 2021: Build a portfolio](build-a-portfolio).
-- [Spring 2021: How to be successful](how-to-be-successful).
-- [Spring 2021: Element will replace Slack](introducing-element).
-- Fall 2020: Site launched but still moving content from [it.pointpark.edu](https://it.pointpark.edu/).
-- [Fall 2020: IT was renamed to Applied Computer Science (and added concentrations)](https://appliedcomputerscience.org/pdfs/2020-2021-appliedcomputerscience-bs.pdf).
-
-
-# Quick Links
-
 - [Degree requirements](degree-requirements).
-- [Listing of all pages](listing).
-- [Listing of all jails](jails).
-- [Faculty](faculty).
-- [Courses](courses).
-- [Tutorials](tutorials).
 - [Contact](contact).
+
+# Resources
+
+- [Tutorials](tutorials).
+- [Courses](courses).
+- [Faculty](faculty).
+- [Contact](contact).
+- [Listing of all jails](jails).
+- [Listing of all pages](listing).
