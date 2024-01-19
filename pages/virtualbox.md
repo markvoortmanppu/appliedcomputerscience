@@ -30,6 +30,7 @@ Follow these steps to create a FreeBSD virtual machine:
 - For the question on whether the machine's CMOS clock set to UTC, select `No` and make sure to select the correct region, country, and time zone.
 - Select `No` when it is asking to add a new user to the system.
 - Make sure to remove the CD before rebooting (or it will boot from the installation CD again).
+- More information can be found in the [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/bsdinstall/).
 
 ## Configuring port forwarding
 
