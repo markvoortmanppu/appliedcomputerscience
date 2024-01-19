@@ -6,8 +6,37 @@
 
 ## Installation
 
-Go to [virtualbox.org](https://www.virtualbox.org/), download the latest version, and run the installer. NOTE: If you are on an Apple computer with an M1 or later CPU you currently need to download the ARM64 development snapshot [here](https://www.virtualbox.org/wiki/Testbuilds). Once VirtualBox is downloaded, you can navigate through the installer by selecting the default options.
+Follow these steps to install VirtualBox:
 
-## VM Creation
+- Go to [virtualbox.org](https://www.virtualbox.org/) and download the latest version.
+- NOTE: If you are on an Apple computer with an M1 CPU or later you currently need to download the ARM64 development snapshot [here](https://www.virtualbox.org/wiki/Testbuilds).
+- Once VirtualBox is downloaded, run the installer and keep the default options or modify them based on your preferences.
 
-TODO
+## FreeBSD VM creation
+
+Follow these steps to create a FreeBSD virtual machine:
+
+- Go to the [FreeBSD](https://www.freebsd.org/) website and download a recent amd64 disc1 ISO file.
+- In VirtualBox, click on the New button to start the creating of a new virtual machine instance.
+- On the first screen, use `freebsd` (or similar) for the name and select the downloaded ISO file.
+- Run through the rest of the installer and keep the default options or modify them based on your preferences.
+- Once done, start the VM and the FreeBSD install will run.
+- In most cases, you should pick the default option by pressing enter (see below for exceptions).
+- For hostname, you can just enter `freebsd`.
+- On the screen where you see `VBOX HARDDISK`, make sure to press space first (to select) and only then press enter.
+- On the next screen make sure that you select `Yes`.
+- You can pick (and remember) a root password or keep it blank for the time being.
+- Select `No` when it is asking to configure IPv6.
+- For the question on whether the machine's CMOS clock set to UTC, select `No` and make sure to select the correct region, country, and time zone.
+- Select `No` when it is asking to add a new user to the system.
+- Make sure to remove the CD before rebooting (or it will boot from the installation CD again).
+
+## Configuring port forwarding
+
+To be able to connect to your VM over SSH, follow these steps:
+
+- Go to settings for your FreeBSD virtual machine.
+- Click on the Expert option and go to network.
+- Open the Port Forwarding screen.
+- Add a new entry with SSH as Name, 2222 as host port, and 22 as Guest Port (keep other fields blank).
+- Connect to localhost 2222 over SSH with the terminal or FileZilla to make sure that you can connect.
