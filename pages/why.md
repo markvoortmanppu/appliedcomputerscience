@@ -35,9 +35,8 @@ The Bureau of Labor Statistics has a [great overview of opportunities in the fie
 
 ## Quick Links
 
-- [Contact information for questions](contact).
-- [The ITSO student organization](http://itso.pointpark.edu/).
-- [Course listing of Applied Computer Science courses](courses).
-- [The degree requirements](degree-requirements).
-- [Applied Computer Science program University page](https://www.pointpark.edu/academics/schools/business/undergraduateprogram/appliedcomputerscience).
-- [Point Park University website](https://www.pointpark.edu/).
+- [The Applied Computer Science program University page](https://www.pointpark.edu/academics/schools/business/undergraduateprogram/appliedcomputerscience).
+- [The Point Park University website](https://www.pointpark.edu/).
+- [Degree requirements](degree-requirements).
+- [Course listing of the Applied Computer Science program](courses).
+- [Please reach out with any questions](contact).
