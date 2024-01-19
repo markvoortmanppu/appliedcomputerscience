@@ -3,7 +3,7 @@ This website provides resources for the [Applied Computer Science program](https
 # Prospects
 
 - [*Why* study Applied Computer Science](why).
-- [General information page](prospects).
+- [General information](prospects).
 - [Degree requirements](degree-requirements).
 - [Contact](contact).
 
