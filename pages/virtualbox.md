@@ -41,3 +41,5 @@ To be able to connect to your VM over SSH, follow these steps:
 - Open the Port Forwarding screen.
 - Add a new entry with SSH as Name, 2222 as host port, and 22 as Guest Port (keep other fields blank).
 - Connect to localhost port 2222 over SSH with the terminal or FileZilla to make sure that you can connect.
+- Also, with FreeBSD you can only ssh to non-root user accounts so you have to add a user (use the `adduser` program).
+- For example, you should be able to use this command: `ssh -p 2222 user@localhost` where you replace user with your username.
