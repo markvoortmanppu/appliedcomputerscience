@@ -1,5 +1,7 @@
 # Employment
 
+TIP: Keep an eye on the Applied Computer Science room in [Element](element) for opportunities!
+
 ## Professionalism
 
 It is very important that you behave professionally when interviewing for internships, co-ops, and jobs. Not only do you want to present yourself in the best possible way, but don’t forget that you also indirectly represent Point Park University and the impression you make reflects back on the IT Program, and the University in general. So what does it mean to behave professionally? Here are a few pointers:
@@ -19,7 +21,7 @@ This is not an exhaustive list but if you follow these guidelines you should be 
 
 ## Internships
 
-Internships are usually taken during the Summer term and can be part time or full time, and for credit or not for credit. Internships (and co-ops) are strongly recommended because it allows you to get some experience before you graduate, and experience is a requirement for many jobs. You can search [Handshake](https://pointpark.joinhandshake.com/) for internship positions. An internship is usually for 3 credits, requires 200 hours of work, you have to write a reflection paper, and you need to maintain a professional blog of your work efforts.
+Internships are usually taken during the Summer term and can be part time or full time, and for credit or not for credit. Internships (and co-ops) are strongly recommended because it allows you to get some experience before you graduate, and experience is a requirement for many jobs. Opportunities are often posted to the Applied Computer Science room in [Element](element) and you can also search [Handshake](https://pointpark.joinhandshake.com/) for internship positions. An internship is usually for 3 credits, requires 200 hours of work, you have to write a reflection paper, and you need to maintain a professional blog of your work efforts.
 
 ## Co-op
 
@@ -27,4 +29,4 @@ A co-op is an internship taken to the next level. Note that there is a minimum G
 
 ## Jobs
 
-You want to start searching for jobs before you graduate, so that you can transition to next step in your career seamlessly. Again, you can search [Handshake](https://pointpark.joinhandshake.com/) for available positions.
+You want to start searching for jobs before you graduate, so that you can transition to next step in your career seamlessly. Again, opportunities are often posted to the Applied Computer Science room in [Element](element) and you can also search [Handshake](https://pointpark.joinhandshake.com/) for available positions.
