@@ -4,6 +4,7 @@
 
 - [How to be successful](how-to-be-successful).
 - [Build a portfolio](build-a-portfolio).
+- [Pursuing employment](employment).
 
 ## Basics
 
