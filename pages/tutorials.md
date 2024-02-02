@@ -23,6 +23,7 @@
 - [Let's Encrypt](lets-encrypt) to get certificates for HTTPS connections.
 - [Databases](databases) introduction and video resources.
 - [VirtualBox](virtualbox) for running virtual machines.
+- [Node](node) for running web servers.
 
 ## Communication
 
