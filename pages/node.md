@@ -6,7 +6,8 @@ Node can be used to do server side scripting.
 
 ## Installation
 
-In your jail run `sudo pkg install node`.
+In your jail run `sudo pkg install node` to install node.
+Also run `sudo pkg install npm` to be able to install npm packages.
 
 ## Running node
 
