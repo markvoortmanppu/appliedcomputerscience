@@ -1,5 +1,7 @@
 # Jail Setup
 
+**NOTE: You now need to connect through the jump box instead of directly from your laptop, see [here](jump-box) for details.**
+
 ## Obtaining a Jail Account
 
 Your environment is usually created when you take a class that requires work on the server. This is a type of remote connection but normally only uses a command line text interface. Ask the instructor to set up an account for you. Your environment is identified with your Point Park username.
