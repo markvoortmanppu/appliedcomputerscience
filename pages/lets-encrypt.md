@@ -2,8 +2,9 @@
 
 ## Prerequisites
 
-* You have installed `sudo` and `nginx`.
-* You have configured `nginx` to serve from `www` in your home directory.
+- You have installed `sudo` and `nginx`.
+- You have configured `nginx` to serve from `www` in your home directory.
+- See also [this tutorial](homepage-setup).
 
 ## Installing
 
