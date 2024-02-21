@@ -4,6 +4,8 @@ Please find a variety of videos about databases below and make sure to read the 
 
 ## Getting Started
 
+**NOTE: You now need to connect through the jump box instead of directly from your laptop, see [here](jump-box) for details.**
+
 [Click here](videos/cmps-160-getting-started.mp4) to watch the video:
 
 * Download the MySQL Workbench from here: https://dev.mysql.com/downloads/workbench/. Make sure that you download just the Workbench installer and not the MySQL installer (sometimes shown under recommended downloads), which contains other software besides the Workbench as well that you do not need and will only be confusing.
