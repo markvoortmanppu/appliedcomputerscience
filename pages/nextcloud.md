@@ -174,7 +174,7 @@ nginx_enable="YES"
 php_fpm_enable="YES"
 ```
 
-Once enable, (re)start the services:
+Once enabled, (re)start the services:
 
 ```
 sudo service mysql restart
