@@ -24,6 +24,7 @@
 - [Databases](databases) introduction and video resources.
 - [VirtualBox](virtualbox) for running virtual machines.
 - [Node](node) for running web servers.
+- [Nextcloud](nextcloud) for running your own cloud service.
 
 ## Communication
 
