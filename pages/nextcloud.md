@@ -170,16 +170,16 @@ Then make sure that the following is enabled in `/etc/rc.conf`:
 
 ```
 nginx_enable="YES"
-mysql_enable="YES"
 php_fpm_enable="YES"
+mysql_enable="YES"
 ```
 
 Once enabled, (re)start the services:
 
 ```
-sudo service mysql restart
-sudo service php-fpm restart
 sudo service nginx restart
+sudo service php-fpm restart
+sudo service mysql restart
 ```
 
 It should now be possible to browse to `https://$USERNAME.it.pointpark.edu/nextcloud/` and continue with the Nextcloud setup. If something is not working, check the following log files for more information:
