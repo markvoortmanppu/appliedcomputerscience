@@ -1,5 +1,7 @@
 # Tutorials
 
+**NOTE: You now need to connect through the jump box instead of directly from your laptop, see [here](jump-box) for details.**
+
 ## Career
 
 - [How to be successful](how-to-be-successful).
