@@ -169,8 +169,8 @@ Next, add the following under the `server` 443 block (**IMPORTANT:** make sure t
 Then make sure that the following is enabled in `/etc/rc.conf`:
 
 ```
-mysql_enable="YES"
 nginx_enable="YES"
+mysql_enable="YES"
 php_fpm_enable="YES"
 ```
 
