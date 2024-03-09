@@ -11,7 +11,7 @@ Make sure the following prerequisite tutorials have been completed:
 - [Jail setup.](https://appliedcomputerscience.org/jail-setup)
 - [Homepage setup.](https://appliedcomputerscience.org/homepage-setup)
 - [Let's Encrypt.](https://appliedcomputerscience.org/lets-encrypt)
-- You also need to install and configure MySQL.
+- You also need to install and configure MySQL (this should have been done in CMPS 160 Databases).
 
 Then run `sudo pkg install nextcloud` to install Nextcloud.
 
@@ -182,4 +182,8 @@ sudo service php-fpm restart
 sudo service nginx restart
 ```
 
-It should not be possible to browse to `https://$USERNAME.it.pointpark.edu/nextcloud/` and continue with the Nextcloud setup.
+It should now be possible to browse to `https://$USERNAME.it.pointpark.edu/nextcloud/` and continue with the Nextcloud setup. If something is not working, check the following log files for more information:
+
+- `/var/log/nginx/access.log`
+- `/var/log/nginx/error.log`
+- `/var/log/nextcloud/nextcloud.log`
