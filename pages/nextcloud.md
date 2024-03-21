@@ -27,7 +27,7 @@ Next, we turn to configuring `nginx.conf` which requires multiple updates and is
 ```
 upstream php-handler {
     server 127.0.0.1:9000;
-    #server unix:/run/php/php8.2-fpm.sock;
+    #server unix:/var/run/php-fpm.sock;
 }
 
 # Set the `immutable` cache control options only for assets with a cache busting `v` argument
@@ -171,7 +171,6 @@ Then make sure that the following is enabled in `/etc/rc.conf`:
 ```
 nginx_enable="YES"
 php_fpm_enable="YES"
-mysql_enable="YES"
 ```
 
 Once enabled, (re)start the services:
@@ -179,7 +178,6 @@ Once enabled, (re)start the services:
 ```
 sudo service nginx restart
 sudo service php-fpm restart
-sudo service mysql restart
 ```
 
 It should now be possible to browse to `https://$USERNAME.it.pointpark.edu/nextcloud/` and continue with the Nextcloud setup. If something is not working, check the following log files for more information:
