@@ -13,7 +13,7 @@ Make sure the following prerequisite tutorials have been completed:
 - [Let's Encrypt.](https://appliedcomputerscience.org/lets-encrypt)
 - You also need to install and configure MySQL (this should have been done in CMPS 160 Databases).
 
-Then run `sudo pkg install nextcloud` to install Nextcloud.
+Then run `sudo pkg install nextcloud-php82` to install Nextcloud.
 
 ## Configuration
 
