@@ -1,6 +1,6 @@
 # Courses
 
-[CMPS 101 CMPS101](cmps-101)
+[CMPS 101 Introduction to Applied Computer Science](cmps-101)
 [CMPS 160 Databases](cmps-160)
 [CMPS 161 Networking and Security](cmps-161)
 [CMPS 162 Introduction to Programming](cmps-162)
