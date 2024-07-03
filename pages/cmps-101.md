@@ -13,3 +13,4 @@ This course covers foundational concepts and technologies in Applied Computer Sc
 3) Explain how each concept or technology is used in business.
 4) Apply applied computer science tools to solve problems in business.
 5) Demonstrate creative and elegant solutions through basic programming and otherwise to solve workplace problems.
+
