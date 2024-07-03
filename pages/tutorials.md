@@ -15,9 +15,14 @@
 - [Homepage Setup](homepage-setup) to install the nginx webserver and create your first homepage.
 - [How to ask questions](how-to-ask-questions) is an important skill to develop.
 
+## Communication
+
+- [Element](element) to chat with other students and professors.
+
 ## Tooling
 
 - [Office](office) for Word, Excel, PowerPoint, etc.
+- [LinkedIn Learning](linkedin-learning) for open educational materials.
 - [Tmux](tmux) to keep programs running in your jail even when you disconnect.
 - [Visual Studio Code](visual-studio-code) to edit code locally and remotely.
 - [FileZilla](filezilla) to upload files to your jail.
@@ -28,10 +33,6 @@
 - [VirtualBox](virtualbox) for running virtual machines.
 - [Node](node) for running web servers.
 - [Nextcloud](nextcloud) for running your own cloud service.
-
-## Communication
-
-- [Element](element) to chat with other students and professors.
 
 ## JavaScript
 
