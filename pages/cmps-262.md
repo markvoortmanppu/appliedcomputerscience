@@ -12,6 +12,6 @@ Upon successful completion of the course, students should be able to:
 (1) Apply all knowledge from CMPS 162 and CMPS 260 to solve real problems.
 2) Decompose complex problems to find solutions.
 (3) Construct complex user interfaces for running algorithms that solve problems.
-(4) Collaborate in a group setting. 
- (5) Present project results and updates to stakeholders.
+(4) Collaborate in a group setting.
+(5) Present project results and updates to stakeholders.
 

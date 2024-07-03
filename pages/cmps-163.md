@@ -10,7 +10,7 @@ This course will provide you with concepts and tools to utilize data for making 
 
 Upon successful completion of the course, students should be able to:
 1) Illustrate why business analytics is important.
-2) Describe when to apply which business analytics approach. 
-3) Apply business analytics approaches to business problems. 
-4)Interpret business analytic results.
+2) Describe when to apply which business analytics approach.
+3) Utilize business analytics approaches to business problems.
+4) Assess business analytic results.
 

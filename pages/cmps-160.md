@@ -10,7 +10,7 @@ This Database course surveys topics in database systems. The course emphasizes t
 
 Upon successful completion of the course, students should be able to:
 1) Explain the details of the relational data model.
-2) Use the basic commands and functions of SQL. 
- 3) Create data models and implement database designs.
+2) Use the basic commands and functions of SQL.
+3) Create data models and implement database designs.
 4) Describe how normalization organizes data in a database.
 
