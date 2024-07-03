@@ -17,6 +17,7 @@
 
 ## Tooling
 
+- [Office](office) for Word, Excel, PowerPoint, etc.
 - [Tmux](tmux) to keep programs running in your jail even when you disconnect.
 - [Visual Studio Code](visual-studio-code) to edit code locally and remotely.
 - [FileZilla](filezilla) to upload files to your jail.
