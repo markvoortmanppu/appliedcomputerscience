@@ -8,13 +8,6 @@
 - [Build a portfolio](build-a-portfolio).
 - [Pursuing employment](employment).
 
-## Basics
-
-- [Jump box](jump-box) explanation required to connect to your jail starting January 2022.
-- [Jail Setup](jail-setup) to get started with your jail.
-- [Homepage Setup](homepage-setup) to install the nginx webserver and create your first homepage.
-- [How to ask questions](how-to-ask-questions) is an important skill to develop.
-
 ## Software
 
 - [Element](element) to chat with other students and professors.
@@ -24,7 +17,14 @@
 - [FileZilla](filezilla) to upload files to your jail.
 - [VirtualBox](virtualbox) for running virtual machines.
 
-## Tooling
+## Jail Basics
+
+- [Jump box](jump-box) explanation required to connect to your jail starting January 2022.
+- [Jail Setup](jail-setup) to get started with your jail.
+- [Homepage Setup](homepage-setup) to install the nginx webserver and create your first homepage.
+- [How to ask questions](how-to-ask-questions) is an important skill to develop.
+
+## Jail Advanced
 
 - [Tmux](tmux) to keep programs running in your jail even when you disconnect.
 - [GitHub](github) to share your repository and code with others and collaborate.
