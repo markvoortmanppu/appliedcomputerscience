@@ -4,11 +4,11 @@
 
 ## Informational
 
-- [Policies](policies).
+- [Policies](policies) that apply to all Applied Computer Science courses.
 - [How to ask questions](how-to-ask-questions) is an important skill to develop.
-- [How to be successful](how-to-be-successful).
-- [Build a portfolio](build-a-portfolio).
-- [Pursuing employment](employment).
+- [How to be successful](how-to-be-successful) is simple but not easy.
+- [Build a portfolio](build-a-portfolio) is important for after graduating.
+- [Pursuing employment](employment) for both during and after your stay at Point Park.
 
 ## Software
 
