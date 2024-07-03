@@ -5,6 +5,7 @@
 ## Informational
 
 - [Policies](policies).
+- [How to ask questions](how-to-ask-questions) is an important skill to develop.
 - [How to be successful](how-to-be-successful).
 - [Build a portfolio](build-a-portfolio).
 - [Pursuing employment](employment).
@@ -23,7 +24,6 @@
 - [Jump box](jump-box) explanation required to connect to your jail starting January 2022.
 - [Jail Setup](jail-setup) to get started with your jail.
 - [Homepage Setup](homepage-setup) to install the nginx webserver and create your first homepage.
-- [How to ask questions](how-to-ask-questions) is an important skill to develop.
 
 ## Jail Advanced
 
