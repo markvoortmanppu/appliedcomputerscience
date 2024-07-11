@@ -9,7 +9,7 @@
 Check the [University Transfer Students page](http://www.pointpark.edu/Admissions/Undergraduate/TransferStudents) for more information.
 
 **Can I get a scholarship?**
-See the [University scholarships]([https://www.pointpark.edu/Admissions/CostsandFinancialAid/TypesofFinancialAidV/Scholarships](https://www.pointpark.edu/admissions/financialaid/typesoffinancialaid/scholarships/pointparkscholarships/businessartssciencescommscholarships)) and the School of [Business scholarships]([https://www.pointpark.edu/Academics/Schools/Business/UndergraduateProgram/Other-Programs-and-Scholarships/Scholarships](https://www.pointpark.edu/academics/schools/business/undergraduateprogram/other-programs-and-scholarships/undergraduate-business-scholarships/index)).
+See the [University scholarships](https://www.pointpark.edu/admissions/financialaid/typesoffinancialaid/scholarships/pointparkscholarships/businessartssciencescommscholarships)) and the School of [Business scholarships](https://www.pointpark.edu/academics/schools/business/undergraduateprogram/other-programs-and-scholarships/undergraduate-business-scholarships/index).
 
 **Can I get financial aid?**
 See the [Office of Financial Aid](http://www.pointpark.edu/About/TuitionCosts/FinancialAid).
