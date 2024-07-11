@@ -9,6 +9,7 @@ This website provides resources for the [Applied Computer Science program](https
 
 # Resources
 
+- [FAQ](faq).
 - [Tutorials](tutorials).
 - [Courses](courses).
 - [Faculty](faculty).
