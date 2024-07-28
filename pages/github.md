@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[GitHub](https://github.com/) is an online service that hosts [Git](git) repositories. It provides a website to create and browse repositores, make issues, create pull requests, and so on. While using [GitHub](https://github.com/) can all be done from the browser, you will also need to learn the basic [git commands](git).
+[GitHub](https://github.com/) is an online service that hosts [Git](git) repositories. It provides a website to create and browse repositores, make issues, create pull requests, and so on. While using [GitHub](https://github.com/) can all be done from the browser, you will also need to learn the basic [git commands](git) (if you are an Applied Computer Science major).
 
 ##  Creating an Account
 
