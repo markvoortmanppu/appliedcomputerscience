@@ -8,11 +8,12 @@
 
 Creating an account on [GitHub](https://github.com/) is relatively straightforward:
 
-* Go to [GitHub](https://github.com/) and click on Sign up.
-* Work through the steps and make sure to save all the information that you enter.
-* If it asks you to create a repository you can do so, but it is advisable that you initialize it with a README file.
+- Go to [GitHub](https://github.com/) and click on Sign up.
+- Work through the steps and make sure to save all the information that you enter.
+- Creating a repository is optional and not needed for CMPS 101.
+- If you do create a repo it is advisable that you initialize it with a README file.
 
 ## Creating New Repositories
 
-* Go to [GitHub](https://github.com/), click on New on the left, and follow the steps.
-* It is advisable that you initialize the new repository with a README file.
+- Go to [GitHub](https://github.com/), click on New on the left, and follow the steps.
+- It is advisable that you initialize the new repository with a README file.
