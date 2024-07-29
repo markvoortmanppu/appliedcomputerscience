@@ -14,3 +14,11 @@
 * Web: http://jseaman.it.pointpark.edu/
 * Email: jseaman@pointpark.edu
 * Matrix/Element: `@jeffreyjseaman:matrix.org`
+
+## Diogo Oliveira
+
+* Assistant Professor
+* Web: http://doliveira.it.pointpark.edu/
+* Email: doliveira@pointpark.edu
+* Matrix/Element: `@diogooliveira:matrix.org`
+
