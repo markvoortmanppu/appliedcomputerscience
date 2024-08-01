@@ -22,5 +22,5 @@
 - Assistant Professor
 - Web: http://doliveira.it.pointpark.edu/
 - Email: doliveira@pointpark.edu
-- Matrix/Element: `@diogooliveira:matrix.org`
+- Matrix/Element: `@doliveira:matrix.org`
 - Specialty: Networking and Security
