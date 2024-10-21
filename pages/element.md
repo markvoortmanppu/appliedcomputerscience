@@ -18,6 +18,7 @@
   * Set up Key Backup under Encryption.
   * Make sure to store the provided information carefully!
 * Send a message to `@markvoortman:matrix.org` (please identify yourself) and you will be added to the Point Park University Space.
+  * Please also include which course section you are in and what your major is.
 * Add yourself to the rooms available in the Space that you would like to follow.
 * Usually you will also be invited to a room dedicated to the course.
 * Ideally, you should install the app on your phone right away as well while you still have the browser session open, so that you have a second session cross-signed/validated (this way you are less likely to lose data due to losing keys and the E2E encryption).
