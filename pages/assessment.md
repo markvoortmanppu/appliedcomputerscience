@@ -24,9 +24,9 @@ To enhance the career potential of students from various academic and societal b
 
 ## Program Intended Student Learning Outcomes (Program ISLOs)
 
-1. Critical Thinking: Analyze, integrate, and communicate complex information to facilitate management decision making.
+1. Critical Thinking: Analyze complex information to facilitate management decision making.
    *Maps to Broad-Based Learning Goal 1 and Key Learning Outcome 1.*
-2. Teamwork: Work well with others and with a demonstrated appreciation of individual differences and a sensitivity to diversity.
+2. Teamwork: Demonstrate the ability to work with others productively in a team setting by utilizing collaboration tools.
    *Maps to Broad-Based Learning Goal N/A and Key Learning Outcome 2.*
 3. Communication: Clearly communicate thoughts and ideas both verbally and in writing.
    *Maps to Broad-Based Learning Goal 2 and Key Learning Outcome 3.*
@@ -46,3 +46,4 @@ To enhance the career potential of students from various academic and societal b
 * 2021-2022: Analytical Tools and Business Core
 * 2022-2023: Critical Thinking and Teamwork
 * 2023-2024: Communication and Business Environment
+* 2024-2025: Analytical Tools and Business Knowledge
