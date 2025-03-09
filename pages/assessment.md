@@ -32,7 +32,7 @@ To enhance the career potential of students from various academic and societal b
    *Maps to Broad-Based Learning Goal 2 and Key Learning Outcome 3.*
 4. Business Knowledge: Apply major Applied Computer Science concepts within the traditional areas of business.
    *Maps to Broad-Based Learning Goal 3 and Key Learning Outcome 4.*
-5. Business Environment: Apply professional ethical and legal standards within a diverse global environment.
+5. Business Environment: Apply professional, ethical, and legal standards within a diverse global environment.
    *Maps to Broad-Based Learning Goal 5 and Key Learning Outcome 5.*
 6. Analysis & Technology Utilization: Apply Applied Computer Science tools and techniques to meet the needs and expectations of the workplace.
    *Maps to Broad-Based Learning Goal 4 and Key Learning Outcome 6.*
