@@ -47,3 +47,4 @@ To enhance the career potential of students from various academic and societal b
 * 2022-2023: Critical Thinking and Teamwork
 * 2023-2024: Communication and Business Environment
 * 2024-2025: Analytical Tools and Business Knowledge
+* 2025-2026: Critical Thinking and Teamwork
