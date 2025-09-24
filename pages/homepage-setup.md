@@ -60,7 +60,9 @@ and enter the following:
 ```
 <!doctype html>
 <html>
-  <title>Replace with your name!</title>
+  <head>
+    <title>Replace with your name!</title>
+  </head>
   <body>
     Hello World!
   </body>
